@@ -9,8 +9,8 @@
 
 	<body>
 
-		<script type="text/javascript src="cdn.dev.local/js/live.js"></script>
-		<script type="text/javascript src="cdn.dev.local/js/jquery-3.3.1.min.js"></script>
-		<script type="text/javascript src="js/main.js"></script>
+		<script src="cdn.dev.local/js/live.js"></script>
+		<script src="cdn.dev.local/js/jquery-3.3.1.min.js"></script>
+		<script src="js/main.js"></script>
 	</body>
 </html>
