@@ -9,7 +9,6 @@
 
 	<body>
 
-		<script src="cdn.dev.local/js/live.js"></script>
 		<script src="cdn.dev.local/js/jquery-3.3.1.min.js"></script>
 		<script src="js/main.js"></script>
 	</body>
