@@ -1,4 +1,4 @@
-let sketch = function( p ) {
+let s = function( p ) {
 
   p.setup = function() {
     p.createCanvas(200, 200)
