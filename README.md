@@ -13,6 +13,7 @@ These templates are meant to be used in a local developpement environnement and 
 ### Config
 Libraries must be served at 
 cdn.dev.local/&lt;programming-language&gt;/&lt;library-file&gt;
+To keep up to date libraries just create a cron to pull the libraries folder where you keep them localy.
 
 ## What you get
 
